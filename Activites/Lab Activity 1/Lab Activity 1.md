@@ -29,10 +29,9 @@ This presentation explores real-world applications of machine learning in health
   - Reduces workload for radiologists.
   - Allows early detection of diseases such as cancer.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d9967fc-aa0b-4e80-9d9b-2134796bcb5e" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="407" />
-Automated abnormality classification of chest radiographs using deep convolutional neural networks
-https://www.nature.com/articles/s41746-020-0273-z
-
+  <img src="https://github.com/user-attachments/assets/0d9967fc-aa0b-4e80-9d9b-2134796bcb5e" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="407" /> </p>
+<p align="center"> Automated abnormality classification of chest radiographs using deep convolutional neural networks</p>
+<p align="center"> https://www.nature.com/articles/s41746-020-0273-z
 
 ### 2. Application in Finance: Stock Market Prediction
 - **Problem:** Predicting stock prices to inform trading decisions and investment strategies.
@@ -42,10 +41,10 @@ https://www.nature.com/articles/s41746-020-0273-z
   - Can improve portfolio management.
   - Reduces risk by identifying market trends and anomalies.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/240125d9-a666-433e-a05c-57ed27f751bc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="407" />
-Machine Learning in Finance: A Case Study on Forecasting Google's Stock Price
-https://www.researchgate.net/publication/376887984_Machine_Learning_in_Finance_A_Case_Study_on_Forecasting_Google's_Stock_Price
-</p>
+  <img src="https://github.com/user-attachments/assets/240125d9-a666-433e-a05c-57ed27f751bc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="407" /> 
+<p align="center">Machine Learning in Finance: A Case Study on Forecasting Google's Stock Price</p>
+<p align="center">https://www.researchgate.net/publication/376887984_Machine_Learning_in_Finance_A_Case_Study_on_Forecasting_Google's_Stock_Price</p>
+
 
 ### 3. Application in Agriculture: Crop Yield Prediction
 - **Problem:** Estimating crop yields based on environmental factors and farm data.
@@ -54,11 +53,9 @@ https://www.researchgate.net/publication/376887984_Machine_Learning_in_Finance_A
   - Assists farmers in planning and resource management.
   - Increases agricultural efficiency and productivity.
   - Reduces losses by optimizing planting and harvesting times.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec24c3c4-6bdd-4aa4-bd7b-6e83049fe3c8" width="700" height="407" />
-Graphical representation of the Type of crop vs. predicted yield
-https://www.researchgate.net/figure/Graphical-representation-of-the-Type-of-crop-vs-predicted-yield_fig3_351918010
-</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ec24c3c4-6bdd-4aa4-bd7b-6e83049fe3c8" width="680" height="410" /></p>
+<p align="center">Graphical representation of the Type of crop vs. predicted yield</p>
+<p align="center">https://www.researchgate.net/figure/Graphical-representation-of-the-Type-of-crop-vs-predicted-yield_fig3_351918010</p>
 
 ## Summary and Conclusion
 Machine learning applications have a transformative impact across various industries:
