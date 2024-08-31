@@ -1,8 +1,7 @@
 # CSST-102: Overview of Machine Learning Applications
 
 
-
-https://github.com/user-attachments/assets/ae500f6b-b040-4ac4-bb85-8db8978a9e1e
+https://github.com/user-attachments/assets/2cfdc6ba-fa34-45bb-b573-d3454a2c2c48
 
 
 ## Introduction to Machine Learning
