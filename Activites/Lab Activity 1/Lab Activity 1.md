@@ -1,6 +1,6 @@
-# Overview of Machine Learning Applications
+# CSST-102: Overview of Machine Learning Applications
 
-
+<video src='Activites/Lab Activity 1/CSST102_LAB-ACTIVITY1_Overview_of_Machine_Learning_Applications.mp4'/>
 
 ## Introduction to Machine Learning
 Machine learning is a branch of artificial intelligence that allows computers to learn from data and improve from experience without explicit programming. There are three main types of machine learning:
