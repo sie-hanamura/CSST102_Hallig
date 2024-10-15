@@ -12,7 +12,7 @@ Archive for CSST102 Activities
 
 #### **Laboratory Activity #2**
 *  Date: 09/16/2024
-*   [Link]()
+*   [Link](3B_HALLIG_EXER2.ipynb)
 
 #### **Laboratory Activity #3**
 *  Date: 09/16/2024
