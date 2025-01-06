@@ -7,7 +7,7 @@ Archive for CSST102 Activities
 
 ### Activities:
 #### **Machine Problem 1**
-*  [Click here to view- 09/08/2024](Activites/3B-HALLIG-MP1/Lab_Activity_1.md)
+*  [Click here to view- 09/08/2024](Activites/3B-HALLIG-MP1/3B-HALLIG-MP1.md)
 
 #### **Machine Problem 2**
 *   [Click here to view- 09/08/2024](Activites/3B-HALLIG-MP2/3B_HALLIG_MP2.ipynb)
